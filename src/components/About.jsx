@@ -2,17 +2,20 @@ import React from 'react'
 
 const About = () => {
   return (
-    <div name="about" className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white">
+    <div id="sobre mi" className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white">
         <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
             <div className='pb-8'>
-               <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
+               <p className='text-4xl font-bold inline border-b-4 border-gray-500'>Acerca de mi</p>
             </div>
             <p className='text-xl mt-20'>
-               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo, eum quia tempora sunt mollitia aliquid quisquam fugiat dolore commodi ipsa sint error? Aut animi ipsam neque libero dicta rem sequi debitis, culpa eum quae officiis accusantium doloribus sunt molestias odio assumenda reiciendis molestiae. Voluptatum aliquid mollitia nulla libero aspernatur natus?
+               Hola, soy Fher y tengo 24 años. Bachiller en Ingenería de Sistemas Computaciones buscando mi primer trabajo como desarollador Web FrontEnd.
+               Soy una persona perservante, que adora los retos y no se da por vencido por cumplir con sus objetivos. Actualmente estoy aprendiendo constantemente
+               tecnologías relacionadas con la programación y el desarrollo web.
+               
             </p>
             <br />
             <p className='text-xl'>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo, eum quia tempora sunt mollitia aliquid quisquam fugiat dolore commodi ipsa sint error? Aut animi ipsam neque libero dicta rem sequi debitis, culpa eum quae officiis accusantium doloribus sunt molestias odio assumenda reiciendis molestiae. Voluptatum aliquid mollitia nulla libero aspernatur natus? 
+              Vivo en la ciudad de Lima - Perú. En mis tiempos libres me gusta escuchar música, jugar fútbol y disfrutar con mi familia.
             </p>
         </div>
     </div>
