@@ -9,7 +9,7 @@ const About = () => {
             </div>
             <p className='text-xl mt-20'>
                Hola, soy Fher y tengo 24 años. Bachiller en Ingenería de Sistemas Computaciones buscando mi primer trabajo como desarollador Web FrontEnd.
-               Soy una persona perservante, que adora los retos y no se da por vencido por cumplir con sus objetivos. Actualmente estoy aprendiendo constantemente
+               Soy una persona perservante, que adora los retos y no me doy por vencido con facilidad cuando se trata de cumplir objetivos. Actualmente estoy aprendiendo constantemente
                tecnologías relacionadas con la programación y el desarrollo web.
                
             </p>
