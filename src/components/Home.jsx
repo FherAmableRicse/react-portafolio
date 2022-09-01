@@ -1,5 +1,5 @@
 import React from "react";
-import HeroImage from "../assets/heroImage.png";
+import HeroImage from "../assets/heroImage.jpg";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import {Link} from 'react-scroll'
 import TypeAnimation from 'react-type-animation';
@@ -10,8 +10,8 @@ const Home = () => {
       id="inicio"
       className="h-screen w-full bg-gradient-to-b from-black via-black to-gray-800"
     >
-      <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
-        <div className="flex flex-col justify-center h-full">
+      <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row gap:0 md:gap-10">
+        <div className="flex flex-col justify-center h-3/6 ">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
             Soy Desarollador 
             <TypeAnimation

@@ -22,7 +22,7 @@ export const portfolios = [
             title: "Polleria",
             main: "React",
             tech: "React,HTML,CSS,JavaScript,Boostrap 5",
-            description:"Aplicación Web para mejorar el servicio al cliente proporcionándole las opciones de realizar sus pedidos y reservas de la pollería Pollo PICOM.",
+            description:"Aplicación Web para la polleria Pollo PICOM",
             code:"https://github.com/FherAmableRicse/react-proyecto-polleria",
             demo:"https://pollo-picom.netlify.app"
         },
